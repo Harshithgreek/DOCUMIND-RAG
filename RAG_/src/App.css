@@ -1,12 +1,12 @@
 .app-container {
   min-height: 100vh;
-  background: linear-gradient(135deg, #004d00 0%, #064c00 100%);
+  background: linear-gradient(135deg, #0d5323 0%, #0a5f2a 100%);
   padding: 2rem;
 }
 
 .app-header {
   text-align: center;
-  color: rgb(17, 199, 23);
+  color: #ffffff;
   margin-bottom: 2rem;
 }
 
