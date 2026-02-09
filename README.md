@@ -240,10 +240,6 @@ llm = ChatOpenAI(
 - Advanced search filters
 - Export conversation history
 
-## License
-
-MIT License - Feel free to use and modify as needed
-
 ## Support
 
 If you encounter any issues or have questions, please check:
